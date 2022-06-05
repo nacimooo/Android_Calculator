@@ -1,13 +1,15 @@
+# Annoncement of end of Support
+This is a message to announce that this project has now reached the end of its support, at least by me and will now migrate towards making a better version, built to support a wider range of actions and calculations
+
 # ChangeLog
-- Improve UI readability
-- Added Clear feature
-- The App now remembers the result of the previous calculation
+- Signignificantly improved UI readability
+- Added a text box which shows the current calculation
 
 # Android_Calculator
 A Simple Android Calculator App
 
 
-![](https://i.imgur.com/LpyhCIp.png)
+![](https://i.imgur.com/KnPNm3B.png)
 
 # Why Make It?
 This is just my first attempt at making an app of any kind, so I wanted to keep it simple, although there are many things that I did not see coming, but I guess that is the fun of it
